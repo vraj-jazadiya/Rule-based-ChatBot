@@ -2,7 +2,7 @@
 
 An advanced rule-based chatbot built using Python.  
 This project demonstrates intent matching, dynamic responses (date/time), and multi-intent detection.
-
+But to make more chat and conversation , you need to add pattern & responsed based on your convenient and application.
 ---
 
 ## 🚀 Features
@@ -21,9 +21,8 @@ This project demonstrates intent matching, dynamic responses (date/time), and mu
 advanced-rule-based-chatbot/
 │
 ├── chatbot.py       # Main chatbot engine
-├── utils.py         # Intent matching & response logic
-├── intents.py       # Chatbot knowledge base
-├── requirements.txt
+├── utils.py         # Intent matching & response logic functions
+├── intents.py       # Chatbot knowledge base (add more data here)
 └── README.md
 ```
 
