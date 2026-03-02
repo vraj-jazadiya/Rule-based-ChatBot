@@ -1,5 +1,5 @@
 # 🤖 Advanced Rule-Based Chatbot (Python)
-
+---
 An advanced rule-based chatbot built using Python.  
 This project demonstrates intent matching, dynamic responses (date/time), and multi-intent detection.
 ---
